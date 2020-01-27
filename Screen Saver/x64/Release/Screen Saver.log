@@ -1,0 +1,12 @@
+﻿  Main.cpp
+  TextureManager.cpp
+  Window.cpp
+c:\users\skotr\documents\acoding stuff\c++\vs\amyprojects\screen saver\screen saver\window.cpp(48): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  WindowObject.cpp
+c:\users\skotr\documents\acoding stuff\c++\vs\amyprojects\screen saver\screen saver\windowobject.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\skotr\documents\acoding stuff\c++\vs\amyprojects\screen saver\screen saver\windowobject.cpp(37): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\skotr\documents\acoding stuff\c++\vs\amyprojects\screen saver\screen saver\windowobject.cpp(53): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\skotr\documents\acoding stuff\c++\vs\amyprojects\screen saver\screen saver\windowobject.cpp(68): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\skotr\documents\acoding stuff\c++\vs\amyprojects\screen saver\screen saver\windowobject.cpp(83): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+TextureManager.obj : error LNK2001: unresolved external symbol IMG_Load
+C:\Users\skotr\Documents\acoding stuff\c++\vs\aMyProjects\Screen Saver\x64\Release\Screen Saver.exe : fatal error LNK1120: 1 unresolved externals
